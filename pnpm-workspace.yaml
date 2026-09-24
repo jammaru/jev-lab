@@ -17,7 +17,7 @@ catalog:
   '@types/ws': 8.18.1
   '@typesafe-ai/sdk': 0.6.0
   '@vitejs/plugin-react': 6.1.1
-  fast-check: 4.10.1
+  fast-check: 4.10.2
   hono: 4.13.8
   knip: 6.36.0
   lucide-react: 1.46.0
