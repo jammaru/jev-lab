@@ -24,7 +24,7 @@ catalog:
   oxfmt: 0.68.0
   oxlint: 1.83.0
   oxlint-tsgolint: 7.0.2001
-  pixi.js: 8.20.1
+  pixi.js: 8.21.0
   react: 19.3.0
   react-dom: 19.3.0
   simple-git-hooks: 2.14.0
